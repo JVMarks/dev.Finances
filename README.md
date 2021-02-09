@@ -9,4 +9,4 @@ Dev.Finances
 
 - [x] HTML5
 - [x] CSS3
-- [x] EES20
+- [x] ES20
